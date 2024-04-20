@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  body
+  {
+    background-color:white;
+    color: black;
+  }
+  #cv-template{
+    display: none; 
+  } 
+  .myimg{
+    border: 2px solid red;
+    border-radius: 50%;
+    height: 180px;
+    width: 180px;
+  }
+  .background{
+    background-color:skyblue; 
+  }
+  a {
+    color:#e4b836; 
+  }
+  a:visited {
+    color: purple; 
+  }
+  a:hover {
+    color: rgb(0, 47, 255); 
+  }  
+  

@@ -1,28 +1,13 @@
-*{
-    margin: 0;
-    padding: 0;
+body{
+    padding:50px;
+    
 }
-#cv-template{
-    display: none; 
+.container{
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
-.myimg{
-    border: 2px solid red;
-    border-radius: 50%;
-    height: 180px;
-    width: 180px;
+.form-group{
+    margin-bottom:30px;
 }
-.background{
-    background-color:rgb(65, 201, 225); 
-}
-
-a {
-    color:#e4b836; /* set the link color to red */
-  }
-
-a:visited {
-    color: purple; /* set the color of visited links to purple */
-  }
-
-  a:hover {
-    color: rgb(0, 47, 255); /* set the color of links on hover to blue */
-  }  
